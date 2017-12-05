@@ -1,4 +1,9 @@
 # mean-excel
+
+Run project:
+- ng build
+- nodemon (or npm start)
+
 ---------------------
 # Sever
 ---------------------
